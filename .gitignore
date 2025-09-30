@@ -2,3 +2,4 @@ fund-llms/
 *.log
 *.pyc
 __pycache__/
+packages/
