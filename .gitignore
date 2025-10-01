@@ -4,3 +4,4 @@ fund-llms/
 __pycache__/
 packages/
 data/cached*
+.ipynb_checkpoints/
