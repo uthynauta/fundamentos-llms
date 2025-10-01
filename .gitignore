@@ -3,3 +3,4 @@ fund-llms/
 *.pyc
 __pycache__/
 packages/
+data/cached*
