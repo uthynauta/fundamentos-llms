@@ -24,7 +24,7 @@ git clone https://github.com/uthynauta/fundamentos-llms.git
 
 ## Crear un ambiente virtual
 
-Se deberá crear un ambiente de python, ya sea mediante Anaconda o bien como _venv_, la versión con la que se creo este repositorio es Python 3.11.
+Se deberá crear un ambiente de python, ya sea mediante Anaconda o bien como _venv_, la versión con la que se creo este repositorio es Python 3.11, y en caso de requerir aceleración de hardware es compatible con la version CUDA 12.4.
 
 Para crear el ambiente virtual se puede navegar a la carpeta del repo:
 
